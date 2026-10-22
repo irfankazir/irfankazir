@@ -63,7 +63,7 @@ Worked on a multi-agent Text-to-SQL system involving natural language processing
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/irfan-kazir-m/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/irfan-kazir-m-10462128b/?isSelfProfile=true)
 - GitHub: [@irfankazir](https://github.com/irfankazir)
 
 ---
